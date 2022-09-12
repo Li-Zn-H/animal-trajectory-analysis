@@ -1,11 +1,11 @@
 # animal-trajectory-analysis
 demo code for paper "A prediction and imputation method for marine animal movement data"
 ## Dependencies
-numpy == 1.21.5
-pandas == 1.4.2
-tensorflow == 2.0.0+
-matplotlib == 3.5.1
-scikit-learn == 1.0.2
+numpy == 1.21.5<br>
+pandas == 1.4.2<br>
+tensorflow-gpu == 2.1.0<br>
+matplotlib == 3.5.1<br>
+scikit-learn == 1.0.2<br>
 ## Usage
 The data file 0.npy is a preprocessed file and can be run directly through the demo file.
 ## Citation
