@@ -11,11 +11,11 @@ demo code for paper "A prediction and imputation method for marine animal moveme
 The data file 0.npy is a preprocessed file and can be run directly through the demo file.
 ## Citation
 @article{li2021prediction,
-  title={A prediction and imputation method for marine animal movement data},
-  author={Li, Xinqing and Sindihebura, Tanguy Tresor and Zhou, Lei and Duarte, Carlos M and Costa, Daniel P and Hindell, Mark A and McMahon, Clive and Muelbert, M{\^o}nica MC and Zhang, Xiangliang and Peng, Chengbin},
-  journal={PeerJ Computer Science},
-  volume={7},
-  pages={e656},
-  year={2021},
-  publisher={PeerJ Inc.}
+  title={A prediction and imputation method for marine animal movement data},<br>
+  author={Li, Xinqing and Sindihebura, Tanguy Tresor and Zhou, Lei and Duarte, Carlos M and Costa, Daniel P and Hindell, Mark A and McMahon, Clive and Muelbert, M{\^o}nica MC and Zhang, Xiangliang and Peng, Chengbin},<br>
+  journal={PeerJ Computer Science},<br>
+  volume={7},<br>
+  pages={e656},<br>
+  year={2021},<br>
+  publisher={PeerJ Inc.}<br>
 }
