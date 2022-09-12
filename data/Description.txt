@@ -1,0 +1,1 @@
+This is the data of a seal. There are five columns of attributes. The first dimension is the distance of displacement along the latitude direction, the second dimension is the distance in the meridian direction, the third dimension is the relative azimuth, the fourth dimension is the dimension of the current position, and the fifth dimension is the longitude.
